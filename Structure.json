@@ -1,6 +1,6 @@
 [
   {
-    "source_url": "https://raw.githubusercontent.com/laxdippatel/BrandX_Inventory_Data_Engineering_Project/main/BrandX_India_Inventory_data_2022_2024.csv",
+    "source_url": "laxdippatel/BrandX_Inventory_Data_Engineering_Project/main/BrandX_India_Inventory_data_2022_2024.csv",
     "sink_folder": "BrandX_India_Stores_Bronze",
     "sink_file": "BrandX_India_Stores.csv"
   }
