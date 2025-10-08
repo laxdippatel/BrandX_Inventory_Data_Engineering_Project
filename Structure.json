@@ -1,8 +1,9 @@
 [
   {
-    "source_url": "main/BrandX_India_Inventory_data_2022_2024.csv",
+    "source_url": "refs/heads/main/BrandX_India_Inventory_Dataset_2022_2024.csv",
     "sink_folder": "BrandX_India_Stores_Bronze",
     "sink_file": "BrandX_India_Stores.csv"
   }
 ]
+
 
