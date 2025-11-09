@@ -57,6 +57,8 @@ Raw structured data is ingested as-is, preserving full lineage and operational a
 Data is cleaned, standardized, enriched, and validated using PySpark notebooks.
 This stage ensures consistency and reliability across the entire ecosystem.
 
+**Notebook:** [Silver Transformation — BrandX_India_Stores](https://github.com/laxdippatel/BrandX_Inventory_Data_Engineering_Project/blob/main/Notebook_SilverTransformation_BrandX_India_Stores.ipynb)
+
 **🟡 Gold Layer**
 
 Business-ready and analytics-optimized tables are created.
@@ -68,7 +70,14 @@ In this project, the Gold layer produces:
 
 - Payment Method Table
 
-These curated tables feed directly into the semantic model and Power BI dashboards.
+**Notebook:** [Gold Transformation — BrandX_India_Stores](https://github.com/laxdippatel/BrandX_Inventory_Data_Engineering_Project/blob/main/Notebook_GoldTransformation_BrandX_India_Stores.ipynb)
+
+**Scope**
+- Aggregated metrics for revenue and quantity  
+- Product rating transformation  
+- Payment method summary tables  
+- Dimensional alignment and surrogate keys  
+- Output optimized for semantic modeling and reporting layers  
 
 ---------------------------------------------------------
 
