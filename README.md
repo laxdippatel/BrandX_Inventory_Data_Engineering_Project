@@ -39,6 +39,7 @@ It also includes a Structure.json file containing a large amount of metadata use
 
 This dataset is ideal for analytics, dashboards, forecasting, and experimenting with data engineering concepts.
 
+**Download the Dataset from Kaggle :** [BrandX_Stores_Inventory_Dataset](https://www.kaggle.com/datasets/laxdippatel/brandx-india-store-dataset)
 
 -----------------------------------------------------------------------
 
